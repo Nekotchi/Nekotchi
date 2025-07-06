@@ -10,4 +10,5 @@ I'm just a girl who loves to code while watching an episode of Chi's Sweet Home 
 - 📫 How to reach me: There's my Exercism user name -> NekoNeko
 - 😄 Pronouns: she / her / them
 - ⚡ Fun fact: I discovered my passion by playing video games in my nintendo switch
+
 --> Coding is the best way to express who you are to the world, beginning with print(Hello, World!). Keep your journey to your dreams!
